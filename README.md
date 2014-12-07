@@ -22,6 +22,8 @@
 このリポジトリにはdll類は含まれておりません。  
 [UnityでOpenCVを使う(Windowsアプリ)](http://www.naturalsoftware.jp/blog/8992) の記事を参考に、OpenCVSharpを導入してください
 
-## ブログ
+## 解説ブログ
 
 書きました
+
+[UnityでOpenCVSharpをつかってOpenCVする。マルチスレッドにもしてみる。 (Windows)](http://izmiz.hateblo.jp/entry/2014/12/07/000228)
